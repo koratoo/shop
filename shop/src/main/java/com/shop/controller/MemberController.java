@@ -55,6 +55,4 @@ public class MemberController {
         return "/member/memberLoginForm";
     }
 
-
-
 }
