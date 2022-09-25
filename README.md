@@ -1,10 +1,10 @@
 
 # 쇼핑몰 홈페이지 만들기<br><br>
 1.스프링부트로 쇼핑몰 만들기 토이프로젝트입니다.<br><br>
-<img src="https://image.yes24.com/goods/103453774/>
+
 ## 참고서적
 [백견이 불여일타 스프링 부트 쇼핑몰프로젝트 with JPA]<br><br>
-![image](img src="https://image.yes24.com/goods/103453774/")
+<img src="https://image.yes24.com/goods/103453774/">
 
 ## 사용언어
 3.사용 언어는 SpringBoot JPA<br>
