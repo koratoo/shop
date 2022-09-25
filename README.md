@@ -4,7 +4,7 @@
 
 ## 참고서적
 [백견이 불여일타 스프링 부트 쇼핑몰프로젝트 with JPA]<br><br>
-<img src="https://image.yes24.com/goods/103453774/">
+<img src="https://image.yes24.com/goods/103453774/" style="width: 25vw; min-width: 140px>
 
 ## 사용언어
 사용 언어는 SpringBoot JPA<br>
