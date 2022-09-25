@@ -3,8 +3,8 @@
 스프링부트로 쇼핑몰 만들기 토이프로젝트입니다.<br><br>
 
 ## 참고서적
-[백견이 불여일타 스프링 부트 쇼핑몰프로젝트 with JPA]<br><br>
-<img src="https://image.yes24.com/goods/103453774/" style="width: 25vw; min-width: 140px>
+<h3>[백견이 불여일타 스프링 부트 쇼핑몰프로젝트 with JPA -변구훈]<h3><br><br>
+
 
 ## 사용언어
 사용 언어는 SpringBoot JPA<br>
