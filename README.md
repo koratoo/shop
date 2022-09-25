@@ -6,7 +6,7 @@
 5.복붙이 아닌 하드코딩을 전제로 합니다.<br>
 6.과정의 기록은 blog.naver.com/lears98에서 확인하실 수 있습니다.<br><br>
 7.현재까지 진행과정은 다음과 같습니다.(22년 9월 25일)<br><br>
--개발환경 구축 : JDK설치, Spring Boot Project생성, 롬복라이브러리 설치, MySQL설치<br><br>
--JPA, Thymeleaf사용<br><br>
--스프링 시큐리티를 이용한 회원가입 및 로그인<br><br>
--연관관계 매핑(진행중) 입니다.(p190)<br><br>
+-개발환경 구축 : JDK설치, Spring Boot Project생성, 롬복라이브러리 설치, MySQL설치<br>
+-JPA, Thymeleaf사용<br>
+-스프링 시큐리티를 이용한 회원가입 및 로그인<br>
+-연관관계 매핑(진행중) 입니다.(p190)
