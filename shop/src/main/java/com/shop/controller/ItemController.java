@@ -11,7 +11,7 @@ public class ItemController {
     @GetMapping(value="/admin/item/new")
     public String itemForm(Model model){
         model.addAttribute("itemFormDto", new ItemFormDto());
-        return "/item/itemForm";
+        return "item/itemForm";
     }
 
 }
