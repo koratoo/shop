@@ -110,7 +110,7 @@ class OrderTest {
     @Test
     @DisplayName("지연로딩 테스트")
     public void lazyLoadingTest(){
-        Order order = this.createOrder(){
+        Order order = this.createOrder();
             Long orderItemId = order.getOrderItemList().get(0).getId();
             em.flush();
             em.clear();
@@ -123,4 +123,4 @@ class OrderTest {
             System.out.println("=========================");
         }
     }
-}
+
